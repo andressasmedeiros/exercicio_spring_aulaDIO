@@ -1,6 +1,6 @@
 # 🧩 Explorando Padrões de Projetos com Java e Spring
 
-Este repositório contém as implementações dos padrões de projeto explorados no laboratório "Explorando Padrões de Projetos na Prática com Java", realizado durante o curso **Clamed v3 - DEVInHouse**. O objetivo deste exercício foi aplicar conceitos de design patterns utilizando o framework Spring.
+Este repositório contém as implementações dos padrões de projeto explorados no laboratório "Explorando Padrões de Projetos na Prática com Java", realizado durante o curso **DIO**. O objetivo deste exercício foi aplicar conceitos de design patterns utilizando o framework Spring.
 
 ---
 
